@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Metin 
+- 👀 I’m interested in ML/AI 
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on metin941@abv.bg
